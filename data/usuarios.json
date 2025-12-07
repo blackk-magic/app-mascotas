@@ -1,0 +1,18 @@
+[
+  {
+    "id_usuario": 1,
+    "nombre": "Juan Pérez",
+    "rut": "12.345.678-9",
+    "correo": "juan@email.com",
+    "password": "123",
+    "tipo": "donante"
+  },
+  {
+    "id_usuario": 2,
+    "nombre": "Refugio Patitas",
+    "rut": "65.432.109-k",
+    "correo": "contacto@patitas.org",
+    "password": "admin",
+    "tipo": "beneficiario"
+  }
+]
